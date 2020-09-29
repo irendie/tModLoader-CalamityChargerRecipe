@@ -1,3 +1,5 @@
 displayName = Calamity Charger Test Item Recipe
 author = Mr. Tavitel
-version = 1.0.0
+version = 1.1.0
+modReferences = CalamityMod
+homepage = https://github.com/irendie/tModLoader-CalamityChargerRecipe
