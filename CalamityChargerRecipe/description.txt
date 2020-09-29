@@ -1,0 +1,11 @@
+This mod adds a recipe for Calamity item "Charger Test Item" and should be used only as a workaround to bugged "Draedon's Charging Station" and "Draedon's Fuel Factory" in 1.4.5.002 version of Calamity. 
+All items needed to craft the item can be found in chests in the Arsenal Labs.
+Use at your own risk. 
+
+Recipe:
+1x Draedon's Charging Station
+1x Draedon's Fuel Factory
+10x Dubious Plating
+10x Mysterious Circuitry
+
+By Mr. Tavitel
